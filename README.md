@@ -14,11 +14,11 @@
     About Me: 
 </h3>
 
-- 🌱 I’m currently learning Quantum Computing and Artificial Intelligence
-- 👯 I’m looking to collaborate on awesome Quantum Computing projects
-- 💬 Ask me about Mathematics, Data Science and Rock Music
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am Left-Handed
+- I’m currently learning Quantum Computing and Artificial Intelligence
+- I’m looking to collaborate on awesome Quantum Computing projects
+- Ask me about Mathematics, Data Science and Rock Music
+- Pronouns: He/Him/His
+- Fun fact: I am Left-Handed
 
 <p align="left">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsantanubanerjee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsantanubanerjee&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
