@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-🔹Loves talking about AI, Blockchain and Quantum Computing
-🔹Listens to Rock, Jazz & Blues
-🔹Known for scribbling Poetry
+🔹Loves talking about AI, Blockchain and Quantum Computing  
+🔹Listens to Rock, Jazz & Blues  
+🔹Known for scribbling Poetry  
 🔹Currently reading "Calcutta: A Cultural and Literary History" by Krishna Dutta
