@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iamsantanubanerjee/iamsantanubanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2000&multiline=true&repeat=false&random=false&width=435&lines=Santanu+Banerjee;Data+Scientist+%7C+Traveller+%7C+Metalhead)](https://git.io/typing-svg)
